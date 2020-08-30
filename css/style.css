@@ -1,17 +1,21 @@
-/* *********************************** */
-/* *** ESTILOS GENERALES *** */
-/* *********************************** */
-
-/* Tipografía */
-@font-face {
-    font-family: "";
-    src: url("") format("woof2"),
-         url("") format("woof");
+/* Fuentes propias */
+/* Cookie Regular */
+@font-face{
+    font-family: "cookie_regular";
+    src: url("../font/cookie-regular-webfont.woff2") format("woff2"),
+    url("../font/cookie-regular-webfont.woff") format("woff");
 }
 
-/* ******************************** */
 
-/* Colores */
+html{
+    
+}
+h1{
+    font-family: "Arial Black";
+}
 
-/* ******************************** */
+h2{
+    font-family: "cookie_regular";
+}
+
 
