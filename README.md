@@ -1,13 +1,9 @@
-# Plantilla FrontEnd
-##### Plantilla Básica para poder empezar casi cualquier proyecto en **FrontEnd**.
+# VARIOS
+##### Por una parte la integración de nuevas tipografías y por otra el Flex-Grow
 
 ~~~
-Metodología de carpetas en FrontEnd
-Estructura en imágenes (svg, jpg, iconos, etc)
-Readme, licencia MIT, gitignore
-Fuentes externas al OS
-Semiestructuras en código
-Comentarios introductorios
+La integración de nuevas tipografías.
+Un menú de lo más común, pero con la integración de Flex-Grow.
 ~~~
 
 > Este contenido se ha creado para mís alumnos, que se inician en el maravilloso mundo de la programación.
